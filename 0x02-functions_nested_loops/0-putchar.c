@@ -9,6 +9,6 @@
 int main(void)
 {
 	
-	_insertchar("_putchar");
+	_insertchar("\_putchar\n");
 	return (0);
 }
